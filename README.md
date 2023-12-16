@@ -1,13 +1,4 @@
 
-# craiyon.py
-
-API Wrapper for [craiyon](https://craiyon.com) (formerly DAL-E-MINI) to generate awesome images from text tokens.
-
-## Badges
-
-Provided By: [shields.io](https://shields.io/)
-
-[![PyPI Version](https://img.shields.io/pypi/v/craiyon.py?style=for-the-badge)](https://pypi.org/project/craiyon.py/)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/craiyon.py?color=red&style=for-the-badge)](https://pypi.org/project/craiyon.py/)
 [![Apache License 2.0](https://img.shields.io/pypi/l/craiyon.py?color=lime&style=for-the-badge)](https://opensource.org/licenses/)
 [![Connect On Discord](https://img.shields.io/discord/710909601356447805?color=yellow&style=for-the-badge)](https://discord.gg/dN66r3D)
